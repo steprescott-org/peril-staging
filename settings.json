@@ -3,6 +3,7 @@
     "onlyForOrgMembers": false
   },
   "rules": {
+    "pull_request": "dangerfile.js",
     "issues": "dangerfile.js"
   }
 }
